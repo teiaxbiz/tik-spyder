@@ -5,3 +5,10 @@ __pycache__/
 
 # package metadata
 *.egg-info
+
+# Virtual environment
+venv/
+env/
+
+# Config with actual API keys
+config/config.ini
